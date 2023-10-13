@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import UserTable from "./components/UserTable.js";
+import UserTable from "./components/UserTable";
 
 function App() {
   return (
